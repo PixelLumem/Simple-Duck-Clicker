@@ -1,2 +1,2 @@
 # Simple-Duck-Clicker prototype-v0.1
-Meu primeiro projeto/My first project!
+É só o "esboço" do meu projeto, a primeira versão de seu protótipo.
